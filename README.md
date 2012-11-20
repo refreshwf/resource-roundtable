@@ -34,7 +34,7 @@ Online resources and tips shared during the RefreshWF Meeting on 11/19/2012.
 + [JSFiddle](http://jsfiddle.net/)
 + [CodePen](http://codepen.io/)
 + [JSBin](http://jsbin.com/)
-+ [Dabbler](http://dabbler.com/)
++ [Dabblet](http://dabblet.com/)
 + [Reveal Presentation Builder](http://rvl.io)
 + [Plans for 2013](http://rvl.io/jslaybaugh/refresh-2013/)
 

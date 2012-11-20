@@ -4,6 +4,8 @@ Online resources and tips shared during the RefreshWF Meeting on 11/19/2012.
 
 ### Joel Abeyta
 + [ConvertCase.net](http://www.convertcase.net/)
++ [We Love Typography](http://welovetypography.com/)
++ [I Love Typography](http://ilovetypography.com/)
 
 ### Jeff Gordon
 + [Raspberry Pi](http://www.raspberrypi.org/)
@@ -15,6 +17,11 @@ Online resources and tips shared during the RefreshWF Meeting on 11/19/2012.
 
 ### James Fleeting
 + [Jekyll](http://www.jekyllrb.com/)
++ [I want an effin toolset](http://iwantaneff.in/toolset/)
++ [Foundation](http://foundation.zurb.com/)
++ [Drought](http://jamesfleeting.github.com/Drought/)
++ [Twitter Bootstrap](http://twitter.github.com/bootstrap/)
++ [simpleWeather](http://jamesfleeting.github.com/jquery.simpleWeather/)
 
 ### Jorin Slaybaugh
 + [Asana](http://asana.com/)

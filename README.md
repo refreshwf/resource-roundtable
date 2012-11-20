@@ -11,7 +11,7 @@ Online resources and tips shared during the RefreshWF Meeting on 11/19/2012.
 + [I Love Typography](http://ilovetypography.com/)
 + [NetTuts+](http://net.tutsplus.com/)
 
-### Jeff Gordon ([@gauthic](http://twitter.com/gauthic))
+### Jeffrey Gordon ([@gauthic](http://twitter.com/gauthic))
 + [Raspberry Pi](http://www.raspberrypi.org/)
 
 ### Eric Binnion ([@ebinnion](http://twitter.com/ebinnion))

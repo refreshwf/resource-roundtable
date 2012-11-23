@@ -7,6 +7,7 @@ Online resources and tips shared during the RefreshWF Meeting on 11/19/2012.
 
 ### Joel Abeyta ([@jbeyta](http://twitter.com/jbeyta))
 + [ConvertCase.net](http://www.convertcase.net/)
++ [Initializr](http://www.initializr.com/)
 + [We Love Typography](http://welovetypography.com/)
 + [I Love Typography](http://ilovetypography.com/)
 + [NetTuts+](http://net.tutsplus.com/)

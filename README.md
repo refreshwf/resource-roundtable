@@ -38,6 +38,10 @@ Online resources and tips shared during the RefreshWF Meeting on 11/19/2012.
 + [Reveal Presentation Builder](http://rvl.io)
 + [Plans for 2013](http://rvl.io/jslaybaugh/refresh-2013/)
 
+### Lovell Felix ([@gauthic](http://twitter.com/lovellfelix))
++ [APPFROG](http://www.appfog.com/)
++ [Android Views - Custom Views and Libraries](http://www.androidviews.net/)
+
 ### Chrome Extensions
 After the speakers a discussion was started around what Chrome Extensions we use. Below is a list of some that were mentioned.
 

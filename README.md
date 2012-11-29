@@ -39,10 +39,6 @@ Online resources and tips shared during the RefreshWF Meeting on 11/19/2012.
 + [Reveal Presentation Builder](http://rvl.io)
 + [Plans for 2013](http://rvl.io/jslaybaugh/refresh-2013/)
 
-### Lovell Felix ([@gauthic](http://twitter.com/lovellfelix))
-+ [APPFROG](http://www.appfog.com/)
-+ [Android Views - Custom Views and Libraries](http://www.androidviews.net/)
-
 ### Chrome Extensions
 After the speakers a discussion was started around what Chrome Extensions we use. Below is a list of some that were mentioned.
 
@@ -64,7 +60,13 @@ Here are a few that we forgot to mention but are still useful.
 + [Currently](https://chrome.google.com/webstore/detail/currently/ojhmphdkpgbibohbnpbfiefkgieacjmh)
 + [Humans.txt](https://chrome.google.com/webstore/detail/humanstxt/pocdghmbbodjiclginddlaimdaholhfk)
 
-Here are a few I wish I would have mentioned.  Anthony Taylor ([@FallsGeek](http://twitter.com/fallsgeek))
+### Added after the meeting via Pull Request
+
+Lovell Felix ([@lovellfelix](http://twitter.com/lovellfelix))
++ [APPFROG](http://www.appfog.com/)
++ [Android Views - Custom Views and Libraries](http://www.androidviews.net/)
+
+Anthony Taylor ([@FallsGeek](http://twitter.com/fallsgeek))
 + [Font Squirrel](http://www.fontsquirrel.com/)
 + [Google Fonts](http://www.google.com/webfonts)
 + [Twuffer a Twitter buffer](http://twuffer.com/)

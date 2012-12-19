@@ -65,6 +65,8 @@ Here are a few that we forgot to mention but are still useful.
 Lovell Felix ([@lovellfelix](http://twitter.com/lovellfelix))
 + [APPFROG](http://www.appfog.com/)
 + [Android Views - Custom Views and Libraries](http://www.androidviews.net/)
++ [YEOMAN](http://yeoman.io)
++ [Ruby Installer for Windows](http://rubyinstaller.org/)
 
 Anthony Taylor ([@FallsGeek](http://twitter.com/fallsgeek))
 + [Font Squirrel](http://www.fontsquirrel.com/)
